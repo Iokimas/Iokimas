@@ -1,0 +1,30 @@
+body{
+  background-color:CadetBlue;
+}
+header{
+  background-color:DarkSlateGrey;
+  color:Azure;
+  text-align:center;
+  padding:10px 200px 10px 200px;
+  height:80px;
+}
+main{
+  background-color:Teal;
+  color:Azure;
+  padding:20px 200px 20px 200px;
+}
+footer{
+  background-color:DarkSlateGrey;
+  color:Azure;
+  height:30px;
+  padding:10px;
+}
+h1{
+  text-align:center; 
+}
+p{
+  border:solid 2px Azure;
+  padding:10px;
+  margin:10px;
+  border-rabius:10px;
+}
